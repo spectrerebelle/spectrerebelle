@@ -1,8 +1,8 @@
 # Oi, meu nome é Patrícia Karoline 🌷
 
-- 🔭 Busco uma oportunidade de estágio como Front-End Jr
+- 🔭 Atualmente sou estagiária de Gestão de Demandas em TI na Ipiranga
 - 🧑‍🎓 Primeiro período de Análise e Desenvolvimento de Sistemas pela UNOPAR
-- 🌱 Atualmente estou aprendendo Javascript
+- 🌱 Atualmente estou aprendendo Javascript | Desenvolvimento Salesforce
 - 📫 Contato: patriciakaroline92@gmail.com
 - 😄 Pronomes: ela/dela
 
