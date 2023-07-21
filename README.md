@@ -1,8 +1,8 @@
 # Oi, meu nome é Patrícia Karoline 🌷
 
-- 🔭 Atualmente sou estagiária de Gestão de Demandas em TI na Ipiranga
-- 🧑‍🎓 Segundo período de Análise e Desenvolvimento de Sistemas pela UNOPAR
-- 🌱 Atualmente estou aprendendo Javascript | Desenvolvimento Salesforce
+- 🔭 Migrando para análise de dados | Analista de dados Jr.
+- 🧑‍🎓 4° período de Análise e Desenvolvimento de Sistemas pela UNOPAR
+- 🌱 Atualmente estou aprendendo Python | SQL | Excel
 - 📫 Contato: patriciakaroline92@gmail.com
 - 😄 Pronomes: ela/dela
 
